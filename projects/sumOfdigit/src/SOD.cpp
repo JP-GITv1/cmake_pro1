@@ -1,5 +1,6 @@
 #include "SOD.h"
 
+
 int main()  
 {  
     int n=123,sum=0,m;    
