@@ -1,5 +1,5 @@
-# Set the minimum version of CMake that can be used
-# To find the cmake version run
+# Set the minimum version of CMake that can be used--- 
+# To find th e cmake version run
 # $ cmake --version
 cmake_minimum_required(VERSION 3.22.1)
 
